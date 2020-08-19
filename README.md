@@ -7,7 +7,7 @@
 ---
 <h3 align="center"> Hi, I'm Raissa. I'm an OutSystems Developer from Brazil.:earth_americas: <h3> 
 
-**23 years old, 1 of coding 👶🏻. An aspiring musician :violin: and IT lover :two_hearts:  :computer: ** 
+23 years old, 1 of coding 👶🏻. An aspiring musician :violin: and IT lover :two_hearts: :computer: 
 
 
 - 🔭 I’m currently working on Truechange Tecnologia
