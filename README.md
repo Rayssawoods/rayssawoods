@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Truechange Tecnologia
 
-- 👽 I’m currently learning **HTML, CSS, React**, and  **JavaScript** to improove my skills
+- 👽 I’m currently learning **HTML, CSS, React.Js, Kotlin**, and  **JavaScript** to improove my skills
 
 - 📫 How to reach me: raissa.domingos@outlook.com
 
