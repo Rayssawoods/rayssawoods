@@ -12,7 +12,7 @@
 
 - 23 years old, 1 of coding 👶🏻. An aspiring musician :violin: and IT lover :two_hearts: :computer: 
 
-- 🔭 I’m currently working on Truechange Tecnologia
+- 🔭 I’m currently working with OutSystems development
 
 - 👽 I’m currently learning **HTML, CSS, React.Js, Kotlin**, and  **JavaScript** to improove my skills
 
