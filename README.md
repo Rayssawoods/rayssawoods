@@ -1,5 +1,5 @@
 
- <h1 align="center"> Hello World, I'm Raissa! 👋 </h1>
+ <h1 align="center">  👋 </h1>
 
 <!--
 **Rayssawoods/rayssawoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -9,16 +9,6 @@
 
 ---
 
-
-- 23 years old, 1 of coding 👶🏻. An aspiring musician :violin: and IT lover :two_hearts: :computer: 
-
-- 🔭 I’m currently working with OutSystems development
-
-- 👽 I’m currently learning **HTML, CSS, React.Js, Kotlin**, and  **JavaScript** to improove my skills
-
-- 📫 How to reach me: raissa.domingos@outlook.com
-
-- ⚡ Fun fact: Violinist 
 
 
 ---
