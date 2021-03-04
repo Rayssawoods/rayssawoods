@@ -29,5 +29,4 @@
  ![Raissa GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true)
  
  
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhome">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/raissa-arantes-a49264118/">
+
