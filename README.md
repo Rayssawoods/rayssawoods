@@ -43,8 +43,6 @@
   
   
  
- ![Snake animation](https://github.com/rayssawoods/rayssawoods/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
