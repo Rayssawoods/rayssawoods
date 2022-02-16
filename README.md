@@ -9,7 +9,7 @@
  
 <br />
 
-I'm Raissa.I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
+I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 
 **About me**
 
@@ -17,7 +17,7 @@ I'm Raissa.I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 
 - ❤️ I'm an IT lover, so I'm currently studying JavaScript and React to improove my skills
 
-- 💬 you can find me on social media below: 
+- 💬 You can find me on social media below: 
  
  <a href="https://instagram.com/raissa.dom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rayssa.hcl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
