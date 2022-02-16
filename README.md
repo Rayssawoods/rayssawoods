@@ -11,6 +11,8 @@
 
 I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 
+<!-- <img align="left" src=""> -->
+
 **About me**
 
 - 💼 BackEnd developer at [Truechange](http://truechange.com.br)
