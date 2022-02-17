@@ -18,7 +18,9 @@ I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 - ❤️ I'm an IT lover, so I'm currently studying JavaScript and React to improove my skills
 
 - 💬 You can find me on social media below: 
+
 <img align="right" alt="Octocat-pic" height="150" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
+
  
  <a href="https://instagram.com/raissa.dom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rayssa.hcl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,8 +28,15 @@ I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 <a href="https://www.linkedin.com/in/raissa-arantes-a49264118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
 <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
 ##
+<!--  ![Raissa GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true&theme=radical) -->
+ <a href="https://github.com/Rayssawoods">
+ <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssawoods&layout=compact&langs_count=7&theme=radical"/> </a>
 
 
+
+
+**Other tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
@@ -38,10 +47,6 @@ I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 
  
 
-<!--  ![Raissa GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true&theme=radical) -->
- <a href="https://github.com/Rayssawoods">
- <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssawoods&layout=compact&langs_count=7&theme=radical"/> </a>
 
  
 <!--   Cobrinha de commits --> 
