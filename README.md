@@ -18,7 +18,7 @@ I'm Raissa. I'm an OutSystems 🚀 Web Developer from Brazil.:earth_americas:
 
 - ❤️ I'm an IT lover, so I'm currently studying JavaScript and React to improove my skills
 
-- 💬 You can find me on  <a href="https://www.gmail.com/in/raissa-arantes-a49264118/" target="_blank">
+- 💬 You can find me on  <a href="mailto:rayssa.hcl@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-raissaarantes-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
 
