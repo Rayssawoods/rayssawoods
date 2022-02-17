@@ -1,15 +1,15 @@
 
 
- <h3 align="center">  Hello Dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome to my github profile!</h3> 
- </p><img align="right" alt="Octocat-pic" height="130" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
+<h3 align="center">  Hello Dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome to my github profile!</h3> 
+ 
+<img align="right" alt="Octocat-pic" height="130" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayssawoods&color=red" alt="Profile views" /> 
 
 
 I'm Raissa. I'm an OutSystems 🚀 Web Developer from Brazil.:earth_americas:
 
-
+ 
 #### :woman_technologist: About me
-
 
 
 - 💼 BackEnd developer at [Truechange](http://truechange.com.br)
@@ -21,8 +21,13 @@ I'm Raissa. I'm an OutSystems 🚀 Web Developer from Brazil.:earth_americas:
 - 💬 You can find me on  <a href="mailto:rayssa.hcl@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-raissaarantes-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
+ 
+ 
+ <br><br>
 
+ 
  #### :globe_with_meridians: &nbsp;Social Links 
+ 
  
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/raissa-arantes-a49264118/" target="_blank">
@@ -40,22 +45,18 @@ I'm Raissa. I'm an OutSystems 🚀 Web Developer from Brazil.:earth_americas:
 </p>
 
 
-
-
+<br><br>
  
-<!--  <a href="https://instagram.com/raissa.dom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:rayssa.hcl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href ="https://open.spotify.com/user/rayssawoods?si=e4a0da350b4c4b8d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/raissa-arantes-a49264118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> -->
-
-
+ 
  #### ⚙️ &nbsp; GitHub Analytics
+
 
  <a href="https://github.com/Rayssawoods">
  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=rayssawoods&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayssawoods&layout=compact&langs_count=7&theme=radical"/> </a>
  
+ 
+<br><br>
 
 
  #### 🛠 &nbsp;Tech Stack
@@ -80,7 +81,7 @@ I'm Raissa. I'm an OutSystems 🚀 Web Developer from Brazil.:earth_americas:
 
 
  
-<!--   Cobrinha de commits --> 
+<!--Snake Animation --> 
 ![Snake animation](https://github.com/Rayssawoods/rayssawoods/blob/output/github-contribution-grid-snake.svg)
  
 
