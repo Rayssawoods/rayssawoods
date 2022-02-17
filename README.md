@@ -19,7 +19,7 @@ I'm Raissa. I'm an OutSystems 🚀 Developer from Brazil.:earth_americas:
 
 - 💬 You can find me on social media below: 
 
-<img align="right" alt="Octocat-pic" height="150" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
+<img align="right" alt="Octocat-pic" height="130" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
 
  
  <a href="https://instagram.com/raissa.dom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
