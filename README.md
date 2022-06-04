@@ -1,6 +1,6 @@
 
 
-<h3 align="center">  Hello Dev! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome to my github profile!</h3> 
+<h3 align="center">  Hello Dev! Welcome to my github profile!</h3> 
  
 <img align="right" alt="Octocat-pic" height="130" src="https://github.com/Rayssawoods/rayssawoods/blob/master/Octo-pic.png?">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayssawoods&color=red" alt="Profile views" /> 
